@@ -1,3 +1,5 @@
+# ❗ Navigate to https://5g6zjt8m.github.io/photography to see my GitHub Pages site. Below are instructions on how to do this yourself. ❗
+
 <img src="https://i.imgur.com/ZG4gSnb.jpeg" alt="demo"/>
 
 # Photography
