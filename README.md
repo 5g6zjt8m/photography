@@ -1,6 +1,8 @@
+# ❗ Navigate to https://5g6zjt8m.github.io/photography to see my GitHub Pages site. Below are instructions on how to do this yourself. ❗
+
 <img src="https://i.imgur.com/ZG4gSnb.jpeg" alt="demo"/>
 
-# Photography ![OpenCollective](https://opencollective.com/photography/tiers/backer/badge.svg?label=backer&color=brightgreen)
+# Photography
 A jekyll website for photographers
 
 ## Highlights
@@ -27,7 +29,7 @@ And, of course, you don't want my name at the bottom to show up. You can change 
 ## Run the website locally to test
 1. `$ cd photography` - go to the project directory
 2. `$ bundle install` - install gems
-3. Change the `baseurl` in `_config.yml` to an empty value
+3. Change the `baseurl` in `_config.yml`
 4. `$ bundle exec jekyll serve` - start/run the website
 
 ### Build the website
@@ -58,28 +60,22 @@ Thanks to [AJ](https://twitter.com/ajlkn) for the website template which I enhan
 
 ## Sponsors
 
-Proudly sponsored by these awesome apps. Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://x.com/rampatra_)]
+Proudly sponsored by [Presentify](http://presentify.compzets.com?ref=GitHub), [ToDoBar](http://todobar.compzets.com?ref=GitHub), and [FaceScreen](https://facescreenapp.com/). Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://x.com/rampatra_)]
 
 <table>
     <tr>
         <td>
-            <a href="https://presentifyapp.com/" target="_blank"><img src="https://raw.githubusercontent.com/rampatra/assets/refs/heads/main/Presentify/Icons/icon_512.png" width="150" height="150"></a>
-        </td>
-        <td>
-            <a href="https://facescreenapp.com/" target="_blank"><img src="https://github.com/user-attachments/assets/b251b413-ccc4-48f1-a316-c2c2a71f959e" width="150" height="150"></a>
-        </td>
-        <td>
-            <a href="https://keyscreenapp.com" target="_blank"><img src="https://github.com/user-attachments/assets/4b75a739-b4b5-432c-a03c-a9bdd8309934" width="150" height="150"></a>
+            <a href="https://presentifyapp.com/" target="_blank"><img src="https://presentifyapp.com/assets/img/presentify/app-icon-512.png" width="150" height="150"></a>
         </td>
         <td>
             <a href="https://todobarapp.com/" target="_blank"><img src="https://todobarapp.com/assets/img/todobar/app-icon-512.png" width="150" height="150"></a>
         </td>
         <td>
-            <a href="https://simplefillapp.com/" target="_blank"><img src="https://github.com/user-attachments/assets/6c575d9c-b65b-4ce7-a468-30f74cfedf18" width="150" height="150"></a>
+            <a href="https://facescreenapp.com/" target="_blank"><img src="https://github.com/user-attachments/assets/b251b413-ccc4-48f1-a316-c2c2a71f959e" width="150" height="150"></a>
         </td>
     </tr>
 </table>
 
 ---
 
-_P.S. For any queries or concerns, you can reach out to me on [Twitter](https://twitter.com/rampatra_). I'll try my best to help 🙏._
+_P.S. For any queries or concerns, you can reach out to me on [Twitter](https://twitter.com/ram__patra). I'll try my best to help 🙏._
